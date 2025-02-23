@@ -1,1 +1,1 @@
-## I am learning git
+## I have learnt git 
